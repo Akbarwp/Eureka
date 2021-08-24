@@ -1,0 +1,49 @@
+.bagian2 img {
+    width: 120px;
+}
+
+.bagian3 img {
+    width: 200px;
+    padding: 20px;
+}
+
+.bagian1 h1 {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bagian1 p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+
+.bagian2 .card-title {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color: #21094E;
+}
+
+.bagian2 .card-body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.bagian3 .card-title {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #21094E;
+}
+
+.bagian3 .card-body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.bagian3 .card-text {
+    font-style: oblique;
+}
+
+.bagian1 .tombol:hover {
+    color: #666666;
+}

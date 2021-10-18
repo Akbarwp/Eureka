@@ -182,7 +182,7 @@ include('head.php');
 
     <!-- Footer -->
     <footer class="text-center pb-5 fs-5" style="color: aliceblue; background-color: #ff1966;">
-        <button type="" class="btn" href="" style="background-color: #21094E; color: #ffffff; font-size: 20px;">Silakan
+        <button type="" class="btn" href="/PHP/modal.php" style="background-color: #21094E; color: #ffffff; font-size: 20px;">Silakan
             Mendaftar</button>
     </footer>
     <!-- Footer -->
